@@ -25,3 +25,11 @@ nav a:center{
 nav a:visited{
 		color: black;
 }
+
+img{
+		display: block;
+		max-width:500pt;
+		max-height:500pt;
+		width: auto;
+		height: auto;
+}
