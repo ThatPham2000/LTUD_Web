@@ -62,3 +62,7 @@ nav a:visited{
     text-align: start;
     font-size:18px;
  }
+ 
+ .mail:visited{
+	 color: blue;
+ }

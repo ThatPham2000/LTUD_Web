@@ -54,3 +54,7 @@ nav a:visited{
 #main{
     overflow: auto;
 }
+
+#mail:visited{
+	color: blue;
+}
