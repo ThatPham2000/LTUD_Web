@@ -42,10 +42,11 @@ img{
 		margin-right:auto;
 }
 
-h3{
+h2{
 		font-weight: bold;
-		background-color: blue;
+		background-color: #4958E9;
+		color: white;
 		display:inline-block;
-		
+		border: 1px solid black;
 		
 }
