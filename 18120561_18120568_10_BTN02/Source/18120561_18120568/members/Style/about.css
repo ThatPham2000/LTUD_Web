@@ -54,13 +54,9 @@ nav a:visited{
 }
 
  .card-title{
-     font-weight:bold;
      font-size:20px;
  }
  
- .card-text{
-     font-weight:bold;
- }
  
  .infor{
     text-align: start;
